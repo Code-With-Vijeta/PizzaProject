@@ -152,7 +152,7 @@ body {
 }
 @media screen and (max-width: 1300px) {
   .mainContent {
-    margin-left: 50px;
+    margin-left: 20px;
     text-align: center;
   }
   .boy {
